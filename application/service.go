@@ -3,8 +3,8 @@ package application
 import (
 	"context"
 
-	"github.com/JoseLuis21/fulldte-sdk-go/domain"
-	"github.com/JoseLuis21/fulldte-sdk-go/ports"
+	"github.com/JoseLuis21/integrafacturacion/domain"
+	"github.com/JoseLuis21/integrafacturacion/ports"
 )
 
 // Service is the application layer orchestrating use-cases.

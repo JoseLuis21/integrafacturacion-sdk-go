@@ -3,7 +3,7 @@
   "packages": {
     ".": {
       "release-type": "go",
-      "package-name": "fulldte-sdk-go",
+      "package-name": "integrafacturacion",
       "include-v-in-tag": true,
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true

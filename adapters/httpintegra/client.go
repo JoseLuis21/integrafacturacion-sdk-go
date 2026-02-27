@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/JoseLuis21/fulldte-sdk-go/domain"
+	"github.com/JoseLuis21/integrafacturacion/domain"
 )
 
 const (
@@ -70,7 +70,7 @@ func New(cfg Config) (*Client, error) {
 
 	userAgent := strings.TrimSpace(cfg.UserAgent)
 	if userAgent == "" {
-		userAgent = "fulldte-sdk-go/0.2.0"
+		userAgent = "integrafacturacion/0.2.0"
 	}
 
 	return &Client{

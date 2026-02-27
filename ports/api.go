@@ -3,7 +3,7 @@ package ports
 import (
 	"context"
 
-	"github.com/JoseLuis21/fulldte-sdk-go/domain"
+	"github.com/JoseLuis21/integrafacturacion/domain"
 )
 
 // IntegraFacturacionAPI defines the outbound port.
