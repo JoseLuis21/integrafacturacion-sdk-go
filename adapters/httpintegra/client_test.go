@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/JoseLuis21/integrafacturacion/domain"
+	"github.com/JoseLuis21/integrafacturacion-sdk-go/domain"
 )
 
 func TestCreateDocumentSendsHeaders(t *testing.T) {

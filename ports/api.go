@@ -3,7 +3,7 @@ package ports
 import (
 	"context"
 
-	"github.com/JoseLuis21/integrafacturacion/domain"
+	"github.com/JoseLuis21/integrafacturacion-sdk-go/domain"
 )
 
 // IntegraFacturacionAPI defines the outbound port.

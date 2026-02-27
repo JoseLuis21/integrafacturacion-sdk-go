@@ -1,17 +1,17 @@
-# integrafacturacion
+# integrafacturacion-sdk-go
 
 SDK en Go para consumir la API de [IntegraFacturacion](https://api.integrafacturacion.cl), con arquitectura hexagonal.
 
 ## Instalacion
 
 ```bash
-go get github.com/JoseLuis21/integrafacturacion
+go get github.com/JoseLuis21/integrafacturacion-sdk-go
 ```
 
 Para instalar una version especifica:
 
 ```bash
-go get github.com/JoseLuis21/integrafacturacion@v0.1.0
+go get github.com/JoseLuis21/integrafacturacion-sdk-go@v0.1.0
 ```
 
 ## Estructura hexagonal
@@ -30,9 +30,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/JoseLuis21/integrafacturacion/adapters/httpintegra"
-	"github.com/JoseLuis21/integrafacturacion/application"
-	"github.com/JoseLuis21/integrafacturacion/domain"
+	"github.com/JoseLuis21/integrafacturacion-sdk-go/adapters/httpintegra"
+	"github.com/JoseLuis21/integrafacturacion-sdk-go/application"
+	"github.com/JoseLuis21/integrafacturacion-sdk-go/domain"
 )
 
 func main() {
