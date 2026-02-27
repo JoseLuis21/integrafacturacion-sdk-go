@@ -1,3 +1,3 @@
-module github.com/joseluis/fulldte-sdk-go
+module github.com/JoseLuis21/fulldte-sdk-go
 
 go 1.22

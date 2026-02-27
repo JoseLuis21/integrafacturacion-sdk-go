@@ -5,13 +5,13 @@ SDK en Go para consumir la API de [IntegraFacturacion](https://api.integrafactur
 ## Instalacion
 
 ```bash
-go get github.com/joseluis/fulldte-sdk-go
+go get github.com/JoseLuis21/fulldte-sdk-go
 ```
 
 Para instalar una version especifica:
 
 ```bash
-go get github.com/joseluis/fulldte-sdk-go@v0.1.0
+go get github.com/JoseLuis21/fulldte-sdk-go@v0.1.0
 ```
 
 ## Estructura hexagonal
@@ -30,9 +30,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/joseluis/fulldte-sdk-go/adapters/httpintegra"
-	"github.com/joseluis/fulldte-sdk-go/application"
-	"github.com/joseluis/fulldte-sdk-go/domain"
+	"github.com/JoseLuis21/fulldte-sdk-go/adapters/httpintegra"
+	"github.com/JoseLuis21/fulldte-sdk-go/application"
+	"github.com/JoseLuis21/fulldte-sdk-go/domain"
 )
 
 func main() {

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/joseluis/fulldte-sdk-go/domain"
+	"github.com/JoseLuis21/fulldte-sdk-go/domain"
 )
 
 const (
