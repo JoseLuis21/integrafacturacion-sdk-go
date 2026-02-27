@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/JoseLuis21/fulldte-sdk-go/compare/fulldte-sdk-go-v0.1.1...fulldte-sdk-go-v0.1.2) (2026-02-27)
+
+
+### Bug Fixes
+
+* align module path and docs with JoseLuis21 namespace ([d69f25d](https://github.com/JoseLuis21/fulldte-sdk-go/commit/d69f25d6148597f82d91c5f3e37f2e2bcc3d88b7))
+
 ## [0.1.1](https://github.com/JoseLuis21/fulldte-sdk-go/compare/fulldte-sdk-go-v0.1.0...fulldte-sdk-go-v0.1.1) (2026-02-26)
 
 
